@@ -20,7 +20,7 @@ header .intro-text{
 
 
 .namech div span{
-    font-size: 1.5em;
+    font-size: 6vw;
     color: #0047ab;
     font-weight: bold;
     font-family: 'Special Elite', cursive;
@@ -33,7 +33,7 @@ header .intro-text{
 
 .namech{
     text-align: center;
-    font-size: 4.1em;
+    font-size: 5vw;
     color: white;
     margin-top: 10px;
     margin-bottom: 30px;
@@ -80,42 +80,8 @@ div{
     display: block;
     margin-right: auto;
     margin-left: auto;
-    margin-top: 80px;
 }
 
-.navbar-default{
-    background-color: transparent;
-    border-color: transparent;
-}
-
-.navbar-fixed-top{
-    top: 0;
-    border-width: 0 0 1px;
-    position: fixed;
-    right: 0;
-    left: 0;
-    z-index: 1030;
-}
-
-.navbar{
-    position: fixed;
-    min-height: 50px;
-    margin-bottom: 20px;
-    border: 1px solid transparent;
-    padding: 10px;
-}
-
-.navbar-brand{
-    font-size: 4em;
-    font-weight: 400;
-    margin-top: 20px;
-    font-family: 'Lily Script One', cursive;
-    
-}
-.right{
-    font-size: 2.5em;
-    margin-top: 20px;
-}
 
 section h2.section-heading {
     font-size: 50px;
